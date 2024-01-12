@@ -1,5 +1,5 @@
 # Roadbound 401
-A knockoff of Crossy Road with special features like power-ups and the ability to destroy incoming trains. (Submitted as our ICS3U Final Project)
+A spinodd of Crossy Road with special features like power-ups and the ability to destroy incoming trains. (Submitted as our ICS3U Final Project)
 Through this project, we learned more about OOP and how to create a game that goes on infinitely with continuous random row generation that didn't create extra lag in the game.
 We also had to teach ourselves a lot about displaying graphics in Java with JFrames and sprites, as well as incorporating background music and special effects audio.
 
