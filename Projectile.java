@@ -37,7 +37,7 @@ public class Projectile extends MovingGameObjects {
   
   /**
    * attack
-   * This method shoots projectiles in the diretcion the Player faces
+   * This method shoots projectiles in the direction the Player faces
    * It also calls all the actions required depending on collison
    * (gaining health, harming enemies etc.)
    */
